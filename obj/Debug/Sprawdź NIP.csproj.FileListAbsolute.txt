@@ -1,0 +1,26 @@
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\bin\Debug\Sprawdź NIP.exe.config
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\bin\Debug\Sprawdź NIP.exe
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\bin\Debug\Sprawdź NIP.pdb
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź NIP.csprojResolveAssemblyReference.cache
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\MainWindow.baml
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\MainWindow.g.cs
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\App.g.cs
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź NIP_MarkupCompile.cache
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź NIP.g.resources
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź_NIP.Properties.Resources.resources
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź NIP.csproj.GenerateResource.Cache
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź NIP.exe
+C:\projekty_csharp\nip_chcecker\Sprawdź NIP\Sprawdź NIP\obj\Debug\Sprawdź NIP.pdb
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\bin\Debug\Sprawdź NIP.exe.config
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź NIP.exe
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź NIP.pdb
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\bin\Debug\Sprawdź NIP.exe
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\bin\Debug\Sprawdź NIP.pdb
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź NIP.csprojResolveAssemblyReference.cache
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\MainWindow.baml
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\MainWindow.g.cs
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\App.g.cs
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź NIP_MarkupCompile.cache
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź NIP.g.resources
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź_NIP.Properties.Resources.resources
+C:\projekty_csharp\nip_chcecker\polich_nip_checker\Sprawdź NIP\obj\Debug\Sprawdź NIP.csproj.GenerateResource.Cache
